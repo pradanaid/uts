@@ -7,7 +7,7 @@ Nama : Pradana Iqbal Anshori
 NRP : 2210020095
 Kelas : 5A NonReg SI BJM
 
-A new Flutter project.
+
 
 ## Getting Started
 
